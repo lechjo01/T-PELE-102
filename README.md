@@ -1,10 +1,10 @@
 # Electricité - Théorie
 
-Ce projet contient les supports de l'activité Électricité - théorie (T-PELE-102) de la HEH.
+Ce projet contient les supports de l'activité Physique appliquée (T-PPHY-301) de la HEH.
 
 ## URL de publication
 
-Le résultat de ce projet est disponible en ligne sur : https://lechjo01.github.io/T-PELE-102/
+Le résultat de ce projet est disponible en ligne sur : https://lechjo01.github.io/T-PPHY-301/
 
 ## Inspiration
 
